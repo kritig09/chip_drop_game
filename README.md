@@ -1,11 +1,11 @@
-# chip_drop_game 
-Chip drop game created in two separate languages- python3 and javascript using html and css. 
+# Chip Drop Game 
+## python3, javascript(html, css)
 
-It is a two player game with the objective to arrange 4 chips of one color horizontally or vertically.The player who does it first wins
+Two player game with the objective to arrange 4 chips of one color horizontally,vertically or diagonally.
+Played turn wise. The person who arranges the chips firstwins
 
-Game Play-
-![game play](/Screenshots/game.JPG)
+Click on the first chip on the column to drop it
+*Game Play-![game play](/Screenshots/game.JPG)
 
-Game win-
-![game win](/Screenshots/game_win.JPG)
+*Game Win-![game win](/Screenshots/game_win.JPG)
 
