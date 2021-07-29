@@ -1,7 +1,7 @@
 # Chip Drop Game 
 ## python3, javascript(html, css)
 
-[Click here] to play!!
+### [Click here] to play!!
 
 Two player game with the objective to arrange 4 chips of one color horizontally,vertically or diagonally.
 Played turn wise. The person who arranges the chips firstwins
